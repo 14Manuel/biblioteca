@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1548486880 source:x:\as2018-2019\tepsit\libro\main.cpp
+	<iostream>
+	"Libreria.h"
+	"Libro.h"
+
+1548487093 source:x:\as2018-2019\tepsit\libro\src\libreria.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Libreria.h"
+	"Libro.h"
+
+1548487043 x:\as2018-2019\tepsit\libro\include\libreria.h
+	"Libro.h"
+
+1547887613 x:\as2018-2019\tepsit\libro\include\libro.h
+	<iostream>
+	<cstring>
+	<cstdio>
+
+1547887836 source:x:\as2018-2019\tepsit\libro\src\libro.cpp
+	"Libro.h"
+	<string.h>
+
